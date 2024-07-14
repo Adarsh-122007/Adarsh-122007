@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adarsh-122007
   
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...python
   
 
 <!---
